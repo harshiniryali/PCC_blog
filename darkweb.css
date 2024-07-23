@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Calibri;
+    letter-spacing: 0.01rem;
+    line-height: 1.25;
+    font-size: 1.15rem;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#quote {
+    font-size: 1.35rem;
+    font-style: italic;
+}

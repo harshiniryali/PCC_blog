@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Calibri';
+}
+
+body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.15rem;
+    line-height: 1.25rem;
+    letter-spacing: .01rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.main-bg {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.s-section {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #ffffff;
+}

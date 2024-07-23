@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Calibri';
+}
+
+body {
+    letter-spacing: .01rem;
+    line-height: 1.25rem;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.15rem;
+}
+
+.main-bg {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.s-section {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+}
